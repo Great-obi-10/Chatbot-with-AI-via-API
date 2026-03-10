@@ -33,7 +33,7 @@ README.md
 
 Clone the repository
 
-git clone https://github.com/yourusername/ai-chatbot-project.git
+git clone https://github.com/great-obi-10/ai-chatbot-project.git
 
 cd ai-chatbot-project
 
