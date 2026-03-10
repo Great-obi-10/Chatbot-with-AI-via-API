@@ -33,7 +33,7 @@ README.md
 
 Clone the repository
 
-git clone https://github.com/yourusername/ai-chatbot-project.git
+git clone https://github.com/Great-obi-10/ai-chatbot-project.git
 
 cd ai-chatbot-project
 
@@ -78,4 +78,5 @@ Chat history
 Voice chat
 User authentication
 Vector database memory
+
 Streaming responses
